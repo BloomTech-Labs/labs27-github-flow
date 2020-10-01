@@ -45,7 +45,7 @@ The following is a list of steps and instructions on how to complete this guided
   - ![pull-request2](https://tk-assets.lambdaschool.com/476e30e8-031a-43dd-9a75-bfec86b9b301_ScreenShot2020-04-13at9.19.49AM.png)
 
 <<<<<<< HEAD
-### steele helbling
+### Michael Johnson
 =======
 ### Boo 👻 I'm a merge conflict
 >>>>>>> 70561cce4da03f3239d327cc34c61f4f2c4abf36
