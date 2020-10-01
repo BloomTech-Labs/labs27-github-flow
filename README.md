@@ -46,4 +46,4 @@ The following is a list of steps and instructions on how to complete this guided
 
 ### Boo 👻 I'm a merge conflict
 
-Gracee ELton
+Elizabeth Grace Elton
